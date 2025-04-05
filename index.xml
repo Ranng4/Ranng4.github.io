@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ranng&#39;s blog</title>
-    <link>https://Ranng4.github.io/</link>
+    <link>https://Ranng4.github.io/algolia.json</link>
     <description>Recent content on Ranng&#39;s blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
