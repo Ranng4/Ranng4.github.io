@@ -3,9 +3,16 @@
   <channel>
     <title>Categories on Ranng&#39;s blog</title>
     <link>https://Ranng4.github.io/categories/</link>
-    <description>Recent content in Categories on Ranng&#39;s blog</description>
+    <description>Recent content from Ranng&#39;s blog</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="https://Ranng4.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <copyright>本博客所有文章除特别声明外，均采用  许可协议。转载请注明出处！</copyright>
+    
+    
+    <atom:link href="https://Ranng4.github.io/categories/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
   </channel>
 </rss>
